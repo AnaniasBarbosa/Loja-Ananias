@@ -1,0 +1,68 @@
+/* SESSÃO DOS CARDS*/
+/*Definindo margin para telas de máximo 576px*/
+@media(max-width: 576px) {
+ 	.col{
+  		margin-top: 25px;
+ 	}
+	.carousel{
+  		display: none;
+ 	}
+ 	.notf {
+ 		font-size: 16px;
+ 	}
+ 	.navbar {
+ 		padding-top: 50px;
+ 		padding-bottom: 50px;
+ 	}
+}
+
+header{
+	font-weight: bold;
+	background-image: linear-gradient(45deg, #A03C78, #ED8E7C, #CDF3A2, #93D9A3);
+	background-image: linear-gradient(45deg, #B980F0, #FE9898, #F5E79D);
+}
+.card {
+	padding-top: 5px;
+	transition-property: box-shadow, transform;
+	transition-duration: 0.8s;
+}
+.card:hover {
+	transform:scale(1.1,1.1);
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/* ANIMAÇÃO NAVBAR */
+.destaque{
+	padding: 0.5rem;
+	color: #FFFFFF;
+	text-decoration: none;
+	transition-property: background-color, color, border-radius;
+	transition-duration: 0.5s,0s;
+}
+a.destaque{
+	color: #FFFFFF;
+}
+a.destaque:visited {
+	color: #FFFFFF;
+}
+a.destaque:hover {
+	transition-property: color;
+	transition-duration: 0.3s;
+	background-color: rgb(80, 80, 80);
+	border-radius: 5px;
+	color: #FFFFFF;
+}
+
+/* PADDING NAVBAR */
+.navbar{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+}
+.dropdown-item {
+	padding-top: 1px;
+}
+
+.row {
+	padding-top: 18px;
+}
