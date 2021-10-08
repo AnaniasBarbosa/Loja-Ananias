@@ -9,7 +9,7 @@ Não foge muito do padrão de uma loja virtual que você vê por aí, só que co
 Esta é Página inicial:
 O primeiro elemento é um slogan com título seguido por uma barra de navegação e um carrossel.
 
-![Homepage](\img\CAPTURAS\pag_inicial.png)
+![Homepage](https://github.com/AnaniasBarbosa/Loja-Ananias/blob/master/img/CAPTURAS/pag_inicial.png?raw=true)
 
 
 
