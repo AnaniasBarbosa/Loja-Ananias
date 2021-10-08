@@ -16,7 +16,7 @@ O primeiro elemento é um slogan com título seguido por uma barra de navegaçã
 Esses são os smartphones em destaque.
 Como pode ver, sempre que passamos o mouse sobre o item sua escala aumenta um pouco e é adicionado uma sombra ao redor do elemento.
 
-![Produtos](\img\CAPTURAS\itens_semana.png)
+![Produtos](https://github.com/AnaniasBarbosa/Loja-Ananias/blob/master/img/CAPTURAS/itens_semana.png?raw=true)
 
 
 
@@ -25,7 +25,7 @@ Agora por último é a página do produto.
 O cliente é levado para esta página quando clica em um dos itens da loja.
 Abaixo do item principal há ainda os itens relacionados.
 
-![](\img\CAPTURAS\pag_produto.png)
+![](https://github.com/AnaniasBarbosa/Loja-Ananias/blob/master/img/CAPTURAS/pag_produto.png?raw=true)
 
 
 
